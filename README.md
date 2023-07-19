@@ -2,8 +2,8 @@
 
 🎮 Welcome to the Hangman game! This is a classic word-guessing game implemented using the tkinter library in Python. Test your vocabulary skills and try to guess the hidden word before the hangman is complete! 
 
-![Hangman Screenshot 1](screenshots/1.png)
-![Hangman Screenshot 2](screenshots/2.png)
+![Hangman Screenshot 1](1.png)
+![Hangman Screenshot 2](2.png)
 
 ## How to Play
 
